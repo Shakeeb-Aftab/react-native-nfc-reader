@@ -14,14 +14,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/github_account/react-native-nfc-reader.git",
-    "baseUrl": "https://github.com/github_account/react-native-nfc-reader"
+    "url": "git+https://github.com/Shakeeb-Aftab/react-native-nfc-reader.git",
+    "baseUrl": "https://github.com/Shakeeb-Aftab/react-native-nfc-reader.git"
   },
   "keywords": [
     "react-native"
   ],
   "author": {
-    "name": "Your Name",
+    "name": "Shakeeb-Aftab",
     "email": "yourname@email.com"
   },
   "license": "MIT",
